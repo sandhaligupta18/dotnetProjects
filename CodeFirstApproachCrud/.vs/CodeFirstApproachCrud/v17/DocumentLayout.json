@@ -1,0 +1,192 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dell\\source\\repos\\dotnetProjects\\CodeFirstApproachCrud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9E676C5-8111-4548-B05C-FF571A3C838C}|CodeFirstApproachCrud\\CodeFirstApproachCrud.csproj|c:\\users\\dell\\source\\repos\\dotnetprojects\\codefirstapproachcrud\\codefirstapproachcrud\\views\\demo\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9E676C5-8111-4548-B05C-FF571A3C838C}|CodeFirstApproachCrud\\CodeFirstApproachCrud.csproj|solutionrelative:codefirstapproachcrud\\views\\demo\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9E676C5-8111-4548-B05C-FF571A3C838C}|CodeFirstApproachCrud\\CodeFirstApproachCrud.csproj|c:\\users\\dell\\source\\repos\\dotnetprojects\\codefirstapproachcrud\\codefirstapproachcrud\\views\\demo\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9E676C5-8111-4548-B05C-FF571A3C838C}|CodeFirstApproachCrud\\CodeFirstApproachCrud.csproj|solutionrelative:codefirstapproachcrud\\views\\demo\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9E676C5-8111-4548-B05C-FF571A3C838C}|CodeFirstApproachCrud\\CodeFirstApproachCrud.csproj|C:\\Users\\dell\\source\\repos\\dotnetProjects\\CodeFirstApproachCrud\\codefirstapproachcrud\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9E676C5-8111-4548-B05C-FF571A3C838C}|CodeFirstApproachCrud\\CodeFirstApproachCrud.csproj|solutionrelative:codefirstapproachcrud\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9E676C5-8111-4548-B05C-FF571A3C838C}|CodeFirstApproachCrud\\CodeFirstApproachCrud.csproj|C:\\Users\\dell\\source\\repos\\dotnetProjects\\CodeFirstApproachCrud\\codefirstapproachcrud\\controllers\\democontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9E676C5-8111-4548-B05C-FF571A3C838C}|CodeFirstApproachCrud\\CodeFirstApproachCrud.csproj|solutionrelative:codefirstapproachcrud\\controllers\\democontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9E676C5-8111-4548-B05C-FF571A3C838C}|CodeFirstApproachCrud\\CodeFirstApproachCrud.csproj|c:\\users\\dell\\source\\repos\\dotnetprojects\\codefirstapproachcrud\\codefirstapproachcrud\\views\\demo\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9E676C5-8111-4548-B05C-FF571A3C838C}|CodeFirstApproachCrud\\CodeFirstApproachCrud.csproj|solutionrelative:codefirstapproachcrud\\views\\demo\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9E676C5-8111-4548-B05C-FF571A3C838C}|CodeFirstApproachCrud\\CodeFirstApproachCrud.csproj|c:\\users\\dell\\source\\repos\\dotnetprojects\\codefirstapproachcrud\\codefirstapproachcrud\\views\\demo\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9E676C5-8111-4548-B05C-FF571A3C838C}|CodeFirstApproachCrud\\CodeFirstApproachCrud.csproj|solutionrelative:codefirstapproachcrud\\views\\demo\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9E676C5-8111-4548-B05C-FF571A3C838C}|CodeFirstApproachCrud\\CodeFirstApproachCrud.csproj|c:\\users\\dell\\source\\repos\\dotnetprojects\\codefirstapproachcrud\\codefirstapproachcrud\\models\\empdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9E676C5-8111-4548-B05C-FF571A3C838C}|CodeFirstApproachCrud\\CodeFirstApproachCrud.csproj|solutionrelative:codefirstapproachcrud\\models\\empdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9E676C5-8111-4548-B05C-FF571A3C838C}|CodeFirstApproachCrud\\CodeFirstApproachCrud.csproj|C:\\Users\\dell\\source\\repos\\dotnetProjects\\CodeFirstApproachCrud\\codefirstapproachcrud\\views\\demo\\empdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9E676C5-8111-4548-B05C-FF571A3C838C}|CodeFirstApproachCrud\\CodeFirstApproachCrud.csproj|solutionrelative:codefirstapproachcrud\\views\\demo\\empdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9E676C5-8111-4548-B05C-FF571A3C838C}|CodeFirstApproachCrud\\CodeFirstApproachCrud.csproj|C:\\Users\\dell\\source\\repos\\dotnetProjects\\CodeFirstApproachCrud\\codefirstapproachcrud\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C9E676C5-8111-4548-B05C-FF571A3C838C}|CodeFirstApproachCrud\\CodeFirstApproachCrud.csproj|solutionrelative:codefirstapproachcrud\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9E676C5-8111-4548-B05C-FF571A3C838C}|CodeFirstApproachCrud\\CodeFirstApproachCrud.csproj|C:\\Users\\dell\\source\\repos\\dotnetProjects\\CodeFirstApproachCrud\\codefirstapproachcrud\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9E676C5-8111-4548-B05C-FF571A3C838C}|CodeFirstApproachCrud\\CodeFirstApproachCrud.csproj|solutionrelative:codefirstapproachcrud\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\dotnetProjects\\CodeFirstApproachCrud\\CodeFirstApproachCrud\\Views\\Demo\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CodeFirstApproachCrud\\Views\\Demo\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\dotnetProjects\\CodeFirstApproachCrud\\CodeFirstApproachCrud\\Views\\Demo\\Edit.cshtml",
+              "RelativeToolTip": "CodeFirstApproachCrud\\Views\\Demo\\Edit.cshtml",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAAADYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T16:41:57.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\dotnetProjects\\CodeFirstApproachCrud\\CodeFirstApproachCrud\\Views\\Demo\\Details.cshtml",
+              "RelativeDocumentMoniker": "CodeFirstApproachCrud\\Views\\Demo\\Details.cshtml",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\dotnetProjects\\CodeFirstApproachCrud\\CodeFirstApproachCrud\\Views\\Demo\\Details.cshtml",
+              "RelativeToolTip": "CodeFirstApproachCrud\\Views\\Demo\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T16:40:36.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "create.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\dotnetProjects\\CodeFirstApproachCrud\\CodeFirstApproachCrud\\Views\\Demo\\create.cshtml",
+              "RelativeDocumentMoniker": "CodeFirstApproachCrud\\Views\\Demo\\create.cshtml",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\dotnetProjects\\CodeFirstApproachCrud\\CodeFirstApproachCrud\\Views\\Demo\\create.cshtml",
+              "RelativeToolTip": "CodeFirstApproachCrud\\Views\\Demo\\create.cshtml",
+              "ViewState": "AQIAACwAAAAAAAAAAAAAADQAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T16:32:37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\dotnetProjects\\CodeFirstApproachCrud\\CodeFirstApproachCrud\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "CodeFirstApproachCrud\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\dotnetProjects\\CodeFirstApproachCrud\\CodeFirstApproachCrud\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "CodeFirstApproachCrud\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T12:39:10.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\dotnetProjects\\CodeFirstApproachCrud\\CodeFirstApproachCrud\\Web.config",
+              "RelativeDocumentMoniker": "CodeFirstApproachCrud\\Web.config",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\dotnetProjects\\CodeFirstApproachCrud\\CodeFirstApproachCrud\\Web.config",
+              "RelativeToolTip": "CodeFirstApproachCrud\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-07T11:56:01.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmpDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\dotnetProjects\\CodeFirstApproachCrud\\CodeFirstApproachCrud\\Views\\Demo\\EmpDetails.cshtml",
+              "RelativeDocumentMoniker": "CodeFirstApproachCrud\\Views\\Demo\\EmpDetails.cshtml",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\dotnetProjects\\CodeFirstApproachCrud\\CodeFirstApproachCrud\\Views\\Demo\\EmpDetails.cshtml",
+              "RelativeToolTip": "CodeFirstApproachCrud\\Views\\Demo\\EmpDetails.cshtml",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAnwBkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T11:55:43.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DemoController.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\dotnetProjects\\CodeFirstApproachCrud\\CodeFirstApproachCrud\\Controllers\\DemoController.cs",
+              "RelativeDocumentMoniker": "CodeFirstApproachCrud\\Controllers\\DemoController.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\dotnetProjects\\CodeFirstApproachCrud\\CodeFirstApproachCrud\\Controllers\\DemoController.cs",
+              "RelativeToolTip": "CodeFirstApproachCrud\\Controllers\\DemoController.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAAADwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T11:48:21.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\dotnetProjects\\CodeFirstApproachCrud\\CodeFirstApproachCrud\\Views\\Demo\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CodeFirstApproachCrud\\Views\\Demo\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\dotnetProjects\\CodeFirstApproachCrud\\CodeFirstApproachCrud\\Views\\Demo\\Delete.cshtml",
+              "RelativeToolTip": "CodeFirstApproachCrud\\Views\\Demo\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T16:43:17.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmpDataContext.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\dotnetProjects\\CodeFirstApproachCrud\\CodeFirstApproachCrud\\Models\\EmpDataContext.cs",
+              "RelativeDocumentMoniker": "CodeFirstApproachCrud\\Models\\EmpDataContext.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\dotnetProjects\\CodeFirstApproachCrud\\CodeFirstApproachCrud\\Models\\EmpDataContext.cs",
+              "RelativeToolTip": "CodeFirstApproachCrud\\Models\\EmpDataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T11:36:19.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\dotnetProjects\\CodeFirstApproachCrud\\CodeFirstApproachCrud\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "CodeFirstApproachCrud\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\dotnetProjects\\CodeFirstApproachCrud\\CodeFirstApproachCrud\\Models\\Employee.cs",
+              "RelativeToolTip": "CodeFirstApproachCrud\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T08:59:10.994Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
