@@ -1,0 +1,208 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dell\\source\\repos\\dotnetProjects\\CrudDotNet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF72FA1-3EAB-4AD6-9AF7-DD90144E1B8A}|CrudDotNet\\CrudDotNet.csproj|c:\\users\\dell\\source\\repos\\dotnetprojects\\cruddotnet\\cruddotnet\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BF72FA1-3EAB-4AD6-9AF7-DD90144E1B8A}|CrudDotNet\\CrudDotNet.csproj|solutionrelative:cruddotnet\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF72FA1-3EAB-4AD6-9AF7-DD90144E1B8A}|CrudDotNet\\CrudDotNet.csproj|c:\\users\\dell\\source\\repos\\dotnetprojects\\cruddotnet\\cruddotnet\\views\\home\\getallusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BF72FA1-3EAB-4AD6-9AF7-DD90144E1B8A}|CrudDotNet\\CrudDotNet.csproj|solutionrelative:cruddotnet\\views\\home\\getallusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CC3A59-5D75-438E-BF48-940B83BAC191}|BussinessAccessLayer\\BussinessAccessLayer.csproj|c:\\users\\dell\\source\\repos\\dotnetprojects\\cruddotnet\\bussinessaccesslayer\\implementation\\accountservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25CC3A59-5D75-438E-BF48-940B83BAC191}|BussinessAccessLayer\\BussinessAccessLayer.csproj|solutionrelative:bussinessaccesslayer\\implementation\\accountservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CC3A59-5D75-438E-BF48-940B83BAC191}|BussinessAccessLayer\\BussinessAccessLayer.csproj|c:\\users\\dell\\source\\repos\\dotnetprojects\\cruddotnet\\bussinessaccesslayer\\abstract\\iaccountservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25CC3A59-5D75-438E-BF48-940B83BAC191}|BussinessAccessLayer\\BussinessAccessLayer.csproj|solutionrelative:bussinessaccesslayer\\abstract\\iaccountservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF72FA1-3EAB-4AD6-9AF7-DD90144E1B8A}|CrudDotNet\\CrudDotNet.csproj|c:\\users\\dell\\source\\repos\\dotnetprojects\\cruddotnet\\cruddotnet\\views\\home\\updatedepartment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BF72FA1-3EAB-4AD6-9AF7-DD90144E1B8A}|CrudDotNet\\CrudDotNet.csproj|solutionrelative:cruddotnet\\views\\home\\updatedepartment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF72FA1-3EAB-4AD6-9AF7-DD90144E1B8A}|CrudDotNet\\CrudDotNet.csproj|c:\\users\\dell\\source\\repos\\dotnetprojects\\cruddotnet\\cruddotnet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8BF72FA1-3EAB-4AD6-9AF7-DD90144E1B8A}|CrudDotNet\\CrudDotNet.csproj|solutionrelative:cruddotnet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BF72FA1-3EAB-4AD6-9AF7-DD90144E1B8A}|CrudDotNet\\CrudDotNet.csproj|c:\\users\\dell\\source\\repos\\dotnetprojects\\cruddotnet\\cruddotnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BF72FA1-3EAB-4AD6-9AF7-DD90144E1B8A}|CrudDotNet\\CrudDotNet.csproj|solutionrelative:cruddotnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1D078A1-02AD-41CE-A72E-C10E04734B33}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\dell\\source\\repos\\dotnetprojects\\cruddotnet\\dataaccesslayer\\applicationdb_context\\appdb_context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1D078A1-02AD-41CE-A72E-C10E04734B33}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\applicationdb_context\\appdb_context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B53F53C-042B-4AC9-A183-FECAF211E08E}|ModelAccessLayer\\ModelAccessLayer.csproj|c:\\users\\dell\\source\\repos\\dotnetprojects\\cruddotnet\\modelaccesslayer\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B53F53C-042B-4AC9-A183-FECAF211E08E}|ModelAccessLayer\\ModelAccessLayer.csproj|solutionrelative:modelaccesslayer\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B53F53C-042B-4AC9-A183-FECAF211E08E}|ModelAccessLayer\\ModelAccessLayer.csproj|c:\\users\\dell\\source\\repos\\dotnetprojects\\cruddotnet\\modelaccesslayer\\registeruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B53F53C-042B-4AC9-A183-FECAF211E08E}|ModelAccessLayer\\ModelAccessLayer.csproj|solutionrelative:modelaccesslayer\\registeruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25CC3A59-5D75-438E-BF48-940B83BAC191}|BussinessAccessLayer\\BussinessAccessLayer.csproj|c:\\users\\dell\\source\\repos\\dotnetprojects\\cruddotnet\\bussinessaccesslayer\\bussinessaccesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{25CC3A59-5D75-438E-BF48-940B83BAC191}|BussinessAccessLayer\\BussinessAccessLayer.csproj|solutionrelative:bussinessaccesslayer\\bussinessaccesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetAllUsers.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\dotnetProjects\\CrudDotNet\\CrudDotNet\\Views\\Home\\GetAllUsers.cshtml",
+              "RelativeDocumentMoniker": "CrudDotNet\\Views\\Home\\GetAllUsers.cshtml",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\dotnetProjects\\CrudDotNet\\CrudDotNet\\Views\\Home\\GetAllUsers.cshtml",
+              "RelativeToolTip": "CrudDotNet\\Views\\Home\\GetAllUsers.cshtml",
+              "ViewState": "AQIAACgAAAAAAAAAAAAiwDEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T05:58:51.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdateDepartment.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\dotnetProjects\\CrudDotNet\\CrudDotNet\\Views\\Home\\UpdateDepartment.cshtml",
+              "RelativeDocumentMoniker": "CrudDotNet\\Views\\Home\\UpdateDepartment.cshtml",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\dotnetProjects\\CrudDotNet\\CrudDotNet\\Views\\Home\\UpdateDepartment.cshtml",
+              "RelativeToolTip": "CrudDotNet\\Views\\Home\\UpdateDepartment.cshtml",
+              "ViewState": "AQIAACIAAAAAAAAAAAAiwC8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T19:53:04.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\dotnetProjects\\CrudDotNet\\CrudDotNet\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CrudDotNet\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\dotnetProjects\\CrudDotNet\\CrudDotNet\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CrudDotNet\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAEcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T07:10:58.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountServices.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\dotnetProjects\\CrudDotNet\\BussinessAccessLayer\\Implementation\\AccountServices.cs",
+              "RelativeDocumentMoniker": "BussinessAccessLayer\\Implementation\\AccountServices.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\dotnetProjects\\CrudDotNet\\BussinessAccessLayer\\Implementation\\AccountServices.cs",
+              "RelativeToolTip": "BussinessAccessLayer\\Implementation\\AccountServices.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAAF8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T06:55:46.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IAccountServices.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\dotnetProjects\\CrudDotNet\\BussinessAccessLayer\\Abstract\\IAccountServices.cs",
+              "RelativeDocumentMoniker": "BussinessAccessLayer\\Abstract\\IAccountServices.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\dotnetProjects\\CrudDotNet\\BussinessAccessLayer\\Abstract\\IAccountServices.cs",
+              "RelativeToolTip": "BussinessAccessLayer\\Abstract\\IAccountServices.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAgwAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T06:55:17.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\dotnetProjects\\CrudDotNet\\CrudDotNet\\appsettings.json",
+              "RelativeDocumentMoniker": "CrudDotNet\\appsettings.json",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\dotnetProjects\\CrudDotNet\\CrudDotNet\\appsettings.json",
+              "RelativeToolTip": "CrudDotNet\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-15T07:00:40.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\dotnetProjects\\CrudDotNet\\CrudDotNet\\Program.cs",
+              "RelativeDocumentMoniker": "CrudDotNet\\Program.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\dotnetProjects\\CrudDotNet\\CrudDotNet\\Program.cs",
+              "RelativeToolTip": "CrudDotNet\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T07:04:31.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\dotnetProjects\\CrudDotNet\\ModelAccessLayer\\Department.cs",
+              "RelativeDocumentMoniker": "ModelAccessLayer\\Department.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\dotnetProjects\\CrudDotNet\\ModelAccessLayer\\Department.cs",
+              "RelativeToolTip": "ModelAccessLayer\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T07:08:18.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDB_Context.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\dotnetProjects\\CrudDotNet\\DataAccessLayer\\ApplicationDB_Context\\AppDB_Context.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\ApplicationDB_Context\\AppDB_Context.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\dotnetProjects\\CrudDotNet\\DataAccessLayer\\ApplicationDB_Context\\AppDB_Context.cs",
+              "RelativeToolTip": "DataAccessLayer\\ApplicationDB_Context\\AppDB_Context.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAgwAwAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T06:57:42.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RegisterUser.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\dotnetProjects\\CrudDotNet\\ModelAccessLayer\\RegisterUser.cs",
+              "RelativeDocumentMoniker": "ModelAccessLayer\\RegisterUser.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\dotnetProjects\\CrudDotNet\\ModelAccessLayer\\RegisterUser.cs",
+              "RelativeToolTip": "ModelAccessLayer\\RegisterUser.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAkwBAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T07:07:35.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BussinessAccessLayer.csproj",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\dotnetProjects\\CrudDotNet\\BussinessAccessLayer\\BussinessAccessLayer.csproj",
+              "RelativeDocumentMoniker": "BussinessAccessLayer\\BussinessAccessLayer.csproj",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\dotnetProjects\\CrudDotNet\\BussinessAccessLayer\\BussinessAccessLayer.csproj",
+              "RelativeToolTip": "BussinessAccessLayer\\BussinessAccessLayer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-15T06:53:47.332Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
