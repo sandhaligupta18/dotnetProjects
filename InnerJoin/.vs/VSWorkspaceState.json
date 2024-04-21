@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\InnerJoin",
+    "\\InnerJoin\\Controllers",
+    "\\InnerJoin\\Models",
+    "\\InnerJoin\\Repository"
+  ],
+  "SelectedNode": "\\InnerJoin\\Repository\\TraineeRepo.cs",
+  "PreviewInSolutionExplorer": false
+}

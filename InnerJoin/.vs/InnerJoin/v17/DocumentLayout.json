@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dell\\source\\repos\\dotnetProjects\\InnerJoin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dell\\source\\repos\\dotnetProjects\\InnerJoin\\InnerJoin\\Repository\\TraineeRepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InnerJoin\\Repository\\TraineeRepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dell\\source\\repos\\dotnetProjects\\InnerJoin\\InnerJoin\\Controllers\\TraineeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InnerJoin\\Controllers\\TraineeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dell\\source\\repos\\dotnetProjects\\InnerJoin\\InnerJoin\\Models\\Trainee1Model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InnerJoin\\Models\\Trainee1Model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dell\\source\\repos\\dotnetProjects\\InnerJoin\\InnerJoin\\Controllers\\Trainee2Controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InnerJoin\\Controllers\\Trainee2Controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dell\\source\\repos\\dotnetProjects\\InnerJoin\\InnerJoin\\Repository\\Trainee1Repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InnerJoin\\Repository\\Trainee1Repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dell\\source\\repos\\dotnetProjects\\InnerJoin\\InnerJoin\\Models\\TraineeModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InnerJoin\\Models\\TraineeModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dell\\source\\repos\\dotnetProjects\\InnerJoin\\InnerJoin\\Models\\MergeModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InnerJoin\\Models\\MergeModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dell\\source\\repos\\dotnetProjects\\InnerJoin\\InnerJoin\\Views\\Trainee2\\AddTrainee1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InnerJoin\\Views\\Trainee2\\AddTrainee1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dell\\source\\repos\\dotnetProjects\\InnerJoin\\InnerJoin\\Views\\Trainee2\\GetAllTraineeMergeDetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InnerJoin\\Views\\Trainee2\\GetAllTraineeMergeDetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dell\\source\\repos\\dotnetProjects\\InnerJoin\\InnerJoin\\App_Start\\RouteConfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InnerJoin\\App_Start\\RouteConfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dell\\source\\repos\\dotnetProjects\\InnerJoin\\InnerJoin\\Views\\Trainee2\\GetAllTrainee1Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InnerJoin\\Views\\Trainee2\\GetAllTrainee1Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dell\\source\\repos\\dotnetProjects\\InnerJoin\\InnerJoin\\Web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InnerJoin\\Web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dell\\source\\repos\\dotnetProjects\\InnerJoin\\InnerJoin\\Views\\Trainee\\GetAllTraineeDetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InnerJoin\\Views\\Trainee\\GetAllTraineeDetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dell\\source\\repos\\dotnetProjects\\InnerJoin\\InnerJoin\\Views\\Trainee\\AddTrainee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InnerJoin\\Views\\Trainee\\AddTrainee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddTrainee1.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\dotnetProjects\\InnerJoin\\InnerJoin\\Views\\Trainee2\\AddTrainee1.cshtml",
+              "RelativeDocumentMoniker": "InnerJoin\\Views\\Trainee2\\AddTrainee1.cshtml",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\dotnetProjects\\InnerJoin\\InnerJoin\\Views\\Trainee2\\AddTrainee1.cshtml",
+              "RelativeToolTip": "InnerJoin\\Views\\Trainee2\\AddTrainee1.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-08T04:55:25.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Trainee1Repo.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\dotnetProjects\\InnerJoin\\InnerJoin\\Repository\\Trainee1Repo.cs",
+              "RelativeDocumentMoniker": "InnerJoin\\Repository\\Trainee1Repo.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\dotnetProjects\\InnerJoin\\InnerJoin\\Repository\\Trainee1Repo.cs",
+              "RelativeToolTip": "InnerJoin\\Repository\\Trainee1Repo.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAAAEwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T04:38:39.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Trainee2Controller.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\dotnetProjects\\InnerJoin\\InnerJoin\\Controllers\\Trainee2Controller.cs",
+              "RelativeDocumentMoniker": "InnerJoin\\Controllers\\Trainee2Controller.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\dotnetProjects\\InnerJoin\\InnerJoin\\Controllers\\Trainee2Controller.cs",
+              "RelativeToolTip": "InnerJoin\\Controllers\\Trainee2Controller.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAwCwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T04:36:13.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Trainee1Model.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\dotnetProjects\\InnerJoin\\InnerJoin\\Models\\Trainee1Model.cs",
+              "RelativeDocumentMoniker": "InnerJoin\\Models\\Trainee1Model.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\dotnetProjects\\InnerJoin\\InnerJoin\\Models\\Trainee1Model.cs",
+              "RelativeToolTip": "InnerJoin\\Models\\Trainee1Model.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T04:21:39.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TraineeRepo.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\dotnetProjects\\InnerJoin\\InnerJoin\\Repository\\TraineeRepo.cs",
+              "RelativeDocumentMoniker": "InnerJoin\\Repository\\TraineeRepo.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\dotnetProjects\\InnerJoin\\InnerJoin\\Repository\\TraineeRepo.cs",
+              "RelativeToolTip": "InnerJoin\\Repository\\TraineeRepo.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABoAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T18:17:42.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TraineeModel.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\dotnetProjects\\InnerJoin\\InnerJoin\\Models\\TraineeModel.cs",
+              "RelativeDocumentMoniker": "InnerJoin\\Models\\TraineeModel.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\dotnetProjects\\InnerJoin\\InnerJoin\\Models\\TraineeModel.cs",
+              "RelativeToolTip": "InnerJoin\\Models\\TraineeModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T17:54:52.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TraineeController.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\dotnetProjects\\InnerJoin\\InnerJoin\\Controllers\\TraineeController.cs",
+              "RelativeDocumentMoniker": "InnerJoin\\Controllers\\TraineeController.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\dotnetProjects\\InnerJoin\\InnerJoin\\Controllers\\TraineeController.cs",
+              "RelativeToolTip": "InnerJoin\\Controllers\\TraineeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T18:11:00.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MergeModel.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\dotnetProjects\\InnerJoin\\InnerJoin\\Models\\MergeModel.cs",
+              "RelativeDocumentMoniker": "InnerJoin\\Models\\MergeModel.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\dotnetProjects\\InnerJoin\\InnerJoin\\Models\\MergeModel.cs",
+              "RelativeToolTip": "InnerJoin\\Models\\MergeModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T05:38:34.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetAllTraineeMergeDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\dotnetProjects\\InnerJoin\\InnerJoin\\Views\\Trainee2\\GetAllTraineeMergeDetails.cshtml",
+              "RelativeDocumentMoniker": "InnerJoin\\Views\\Trainee2\\GetAllTraineeMergeDetails.cshtml",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\dotnetProjects\\InnerJoin\\InnerJoin\\Views\\Trainee2\\GetAllTraineeMergeDetails.cshtml",
+              "RelativeToolTip": "InnerJoin\\Views\\Trainee2\\GetAllTraineeMergeDetails.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-08T05:43:06.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\dotnetProjects\\InnerJoin\\InnerJoin\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "InnerJoin\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\dotnetProjects\\InnerJoin\\InnerJoin\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "InnerJoin\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T18:53:48.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetAllTrainee1Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\dotnetProjects\\InnerJoin\\InnerJoin\\Views\\Trainee2\\GetAllTrainee1Details.cshtml",
+              "RelativeDocumentMoniker": "InnerJoin\\Views\\Trainee2\\GetAllTrainee1Details.cshtml",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\dotnetProjects\\InnerJoin\\InnerJoin\\Views\\Trainee2\\GetAllTrainee1Details.cshtml",
+              "RelativeToolTip": "InnerJoin\\Views\\Trainee2\\GetAllTrainee1Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-08T04:54:03.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\dotnetProjects\\InnerJoin\\InnerJoin\\Web.config",
+              "RelativeDocumentMoniker": "InnerJoin\\Web.config",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\dotnetProjects\\InnerJoin\\InnerJoin\\Web.config",
+              "RelativeToolTip": "InnerJoin\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-07T17:58:54.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GetAllTraineeDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\dotnetProjects\\InnerJoin\\InnerJoin\\Views\\Trainee\\GetAllTraineeDetails.cshtml",
+              "RelativeDocumentMoniker": "InnerJoin\\Views\\Trainee\\GetAllTraineeDetails.cshtml",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\dotnetProjects\\InnerJoin\\InnerJoin\\Views\\Trainee\\GetAllTraineeDetails.cshtml",
+              "RelativeToolTip": "InnerJoin\\Views\\Trainee\\GetAllTraineeDetails.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T18:52:29.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AddTrainee.cshtml",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\dotnetProjects\\InnerJoin\\InnerJoin\\Views\\Trainee\\AddTrainee.cshtml",
+              "RelativeDocumentMoniker": "InnerJoin\\Views\\Trainee\\AddTrainee.cshtml",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\dotnetProjects\\InnerJoin\\InnerJoin\\Views\\Trainee\\AddTrainee.cshtml",
+              "RelativeToolTip": "InnerJoin\\Views\\Trainee\\AddTrainee.cshtml",
+              "ViewState": "AQIAADcAAAAAAAAAAAAAADwAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T18:53:22.586Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
