@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dell\\source\\repos\\dotnetProjects\\ErpCollege\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6B42D2E-7ED0-4386-9E0E-D954FD1A9985}|ModelAccessLayer\\ModelAccessLayer.csproj|c:\\users\\dell\\source\\repos\\dotnetprojects\\erpcollege\\modelaccesslayer\\studentinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6B42D2E-7ED0-4386-9E0E-D954FD1A9985}|ModelAccessLayer\\ModelAccessLayer.csproj|solutionrelative:modelaccesslayer\\studentinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6B42D2E-7ED0-4386-9E0E-D954FD1A9985}|ModelAccessLayer\\ModelAccessLayer.csproj|c:\\users\\dell\\source\\repos\\dotnetprojects\\erpcollege\\modelaccesslayer\\studentregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6B42D2E-7ED0-4386-9E0E-D954FD1A9985}|ModelAccessLayer\\ModelAccessLayer.csproj|solutionrelative:modelaccesslayer\\studentregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6B42D2E-7ED0-4386-9E0E-D954FD1A9985}|ModelAccessLayer\\ModelAccessLayer.csproj|c:\\users\\dell\\source\\repos\\dotnetprojects\\erpcollege\\modelaccesslayer\\teacherregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6B42D2E-7ED0-4386-9E0E-D954FD1A9985}|ModelAccessLayer\\ModelAccessLayer.csproj|solutionrelative:modelaccesslayer\\teacherregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6B42D2E-7ED0-4386-9E0E-D954FD1A9985}|ModelAccessLayer\\ModelAccessLayer.csproj|c:\\users\\dell\\source\\repos\\dotnetprojects\\erpcollege\\modelaccesslayer\\loginuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6B42D2E-7ED0-4386-9E0E-D954FD1A9985}|ModelAccessLayer\\ModelAccessLayer.csproj|solutionrelative:modelaccesslayer\\loginuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentInformation.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\dotnetProjects\\ErpCollege\\ModelAccessLayer\\StudentInformation.cs",
+              "RelativeDocumentMoniker": "ModelAccessLayer\\StudentInformation.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\dotnetProjects\\ErpCollege\\ModelAccessLayer\\StudentInformation.cs",
+              "RelativeToolTip": "ModelAccessLayer\\StudentInformation.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAswCcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T17:29:33.883Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentRegister.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\dotnetProjects\\ErpCollege\\ModelAccessLayer\\StudentRegister.cs",
+              "RelativeDocumentMoniker": "ModelAccessLayer\\StudentRegister.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\dotnetProjects\\ErpCollege\\ModelAccessLayer\\StudentRegister.cs",
+              "RelativeToolTip": "ModelAccessLayer\\StudentRegister.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAiwB4AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T06:22:33.974Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TeacherRegister.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\dotnetProjects\\ErpCollege\\ModelAccessLayer\\TeacherRegister.cs",
+              "RelativeDocumentMoniker": "ModelAccessLayer\\TeacherRegister.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\dotnetProjects\\ErpCollege\\ModelAccessLayer\\TeacherRegister.cs",
+              "RelativeToolTip": "ModelAccessLayer\\TeacherRegister.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAA4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T05:42:09.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginUser.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\dotnetProjects\\ErpCollege\\ModelAccessLayer\\LoginUser.cs",
+              "RelativeDocumentMoniker": "ModelAccessLayer\\LoginUser.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\dotnetProjects\\ErpCollege\\ModelAccessLayer\\LoginUser.cs",
+              "RelativeToolTip": "ModelAccessLayer\\LoginUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T05:32:10.41Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

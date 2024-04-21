@@ -1,0 +1,13 @@
+C:\Users\dell\source\repos\dotnetProjects\ErpCollege\ModelAccessLayer\bin\Debug\net8.0\ModelAccessLayer.deps.json
+C:\Users\dell\source\repos\dotnetProjects\ErpCollege\ModelAccessLayer\bin\Debug\net8.0\ModelAccessLayer.dll
+C:\Users\dell\source\repos\dotnetProjects\ErpCollege\ModelAccessLayer\bin\Debug\net8.0\ModelAccessLayer.pdb
+C:\Users\dell\source\repos\dotnetProjects\ErpCollege\ModelAccessLayer\obj\Debug\net8.0\ModelAccessLayer.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\dotnetProjects\ErpCollege\ModelAccessLayer\obj\Debug\net8.0\ModelAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\dotnetProjects\ErpCollege\ModelAccessLayer\obj\Debug\net8.0\ModelAccessLayer.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\dotnetProjects\ErpCollege\ModelAccessLayer\obj\Debug\net8.0\ModelAccessLayer.AssemblyInfo.cs
+C:\Users\dell\source\repos\dotnetProjects\ErpCollege\ModelAccessLayer\obj\Debug\net8.0\ModelAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\dotnetProjects\ErpCollege\ModelAccessLayer\obj\Debug\net8.0\ModelAccessLayer.sourcelink.json
+C:\Users\dell\source\repos\dotnetProjects\ErpCollege\ModelAccessLayer\obj\Debug\net8.0\ModelAccessLayer.dll
+C:\Users\dell\source\repos\dotnetProjects\ErpCollege\ModelAccessLayer\obj\Debug\net8.0\refint\ModelAccessLayer.dll
+C:\Users\dell\source\repos\dotnetProjects\ErpCollege\ModelAccessLayer\obj\Debug\net8.0\ModelAccessLayer.pdb
+C:\Users\dell\source\repos\dotnetProjects\ErpCollege\ModelAccessLayer\obj\Debug\net8.0\ref\ModelAccessLayer.dll
